@@ -14,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+### `yarn run server`
+
+Runs the local json-server on port:5000 acting as backend for the application. It is required to run inorder to see the full UI.\
+Open [http://localhost:5000/schedules](http://localhost:5000/schedules) to view a sample list of schedules.
+
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
